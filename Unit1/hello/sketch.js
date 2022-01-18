@@ -4,8 +4,8 @@ function setup() {
 }
 
 function draw() {
-  background('blue') ;
+  background('purple') ;
   fill('white') ;
   textSize(32) ;
-  text("hello world!", 250, 250) ;
+  text("weighted blanket!", 250, 250) ;
 }
