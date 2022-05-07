@@ -159,7 +159,7 @@ function screen() {
     image(clouds, width / 2 - 5, height / 2 - 60, 270, 270);
   }
   if (description === "Rain" || description === "Drizzle" || description === "Thunderstorm" || description === "Mist") {
-    fill('6bjd8f');
+    fill('6b7d8f');
     rect(width / 2, height / 2 - 60, 370, 242);
     image(rain, width / 2, height / 2 - 20, 240, 180);
     image(clouds, width / 2 - 5, height / 2 - 60, 270, 270);
